@@ -1,5 +1,5 @@
 async function fetchProducts() {
-    const url = 'https://dummyjson.com/products';
+    const url = 'index.html';
 
     try {
         const response = await fetch(url);
